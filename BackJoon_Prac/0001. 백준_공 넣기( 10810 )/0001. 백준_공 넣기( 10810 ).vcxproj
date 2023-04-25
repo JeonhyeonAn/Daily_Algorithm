@@ -24,6 +24,7 @@
     <ProjectGuid>{f904a28e-2474-4371-ad36-68afecb9e475}</ProjectGuid>
     <RootNamespace>My0001백준공넣기10810</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>0002. 백준_공 넣기( 10810 )</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
