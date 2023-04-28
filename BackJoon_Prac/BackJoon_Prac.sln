@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0001. 백준_개수 세기(10810)", "BackJoon_Prac\BackJoon_Prac.vcxproj", "{0DA303F2-7496-4397-B1D6-316E8F373EF9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0001. 백준_공 넣기( 10810 )", "0001. 백준_공 넣기( 10810 )\0001. 백준_공 넣기( 10810 ).vcxproj", "{F904A28E-2474-4371-AD36-68AFECB9E475}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0002. 백준_공 넣기( 10810 )", "0001. 백준_공 넣기( 10810 )\0001. 백준_공 넣기( 10810 ).vcxproj", "{F904A28E-2474-4371-AD36-68AFECB9E475}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0003. 백준_평균( 1546 )", "0003. 백준_평균( 1546 )\0003. 백준_평균( 1546 ).vcxproj", "{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{F904A28E-2474-4371-AD36-68AFECB9E475}.Release|x64.Build.0 = Release|x64
 		{F904A28E-2474-4371-AD36-68AFECB9E475}.Release|x86.ActiveCfg = Release|Win32
 		{F904A28E-2474-4371-AD36-68AFECB9E475}.Release|x86.Build.0 = Release|Win32
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Debug|x64.ActiveCfg = Debug|x64
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Debug|x64.Build.0 = Debug|x64
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Debug|x86.Build.0 = Debug|Win32
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Release|x64.ActiveCfg = Release|x64
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Release|x64.Build.0 = Release|x64
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Release|x86.ActiveCfg = Release|Win32
+		{9FEFE647-D859-41EC-A64A-1D7F2E00EB5D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
