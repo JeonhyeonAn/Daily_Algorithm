@@ -3,8 +3,28 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+
+	while (true)
+	{
+		int N = 0;
+
+		cin >> N;
+
+		int l = 3;
+
+		for (int i = 1; i < N; i++)
+		{
+			l = l * 2 - 1; 
+		}
+
+		int count = l * l;
+
+		cout << count << endl;;
+
+	}
 }
 
