@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0008. 백준_분수찾기( 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0009. 백준_달팽이는 올라가고 싶다( 2869 )", "0009. 백준_달팽이는 올라가고 싶다( 2869 )\0009. 백준_달팽이는 올라가고 싶다( 2869 ).vcxproj", "{A13F1CA8-444B-4A53-B242-1BEDE97B5307}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0010. 백준_약수와 배수( 5086 )", "0010. 백준_약수와 배수( 5086 )\0010. 백준_약수와 배수( 5086 ).vcxproj", "{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{A13F1CA8-444B-4A53-B242-1BEDE97B5307}.Release|x64.Build.0 = Release|x64
 		{A13F1CA8-444B-4A53-B242-1BEDE97B5307}.Release|x86.ActiveCfg = Release|Win32
 		{A13F1CA8-444B-4A53-B242-1BEDE97B5307}.Release|x86.Build.0 = Release|Win32
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Debug|x64.ActiveCfg = Debug|x64
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Debug|x64.Build.0 = Debug|x64
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Debug|x86.Build.0 = Debug|Win32
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Release|x64.ActiveCfg = Release|x64
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Release|x64.Build.0 = Release|x64
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Release|x86.ActiveCfg = Release|Win32
+		{7210D6C9-B2ED-4D2F-BFBC-1D6B11D44C4C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
