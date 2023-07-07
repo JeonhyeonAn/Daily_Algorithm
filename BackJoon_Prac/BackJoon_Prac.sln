@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0012. 백준_약수들의 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0013. 백준_소수 찾기 (1978)", "0013. 백준_소수 찾기 (1978)\0013. 백준_소수 찾기 (1978).vcxproj", "{753DDACA-8537-4017-BAFB-65373E0A9A9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0014. 백준_소수 (2581)", "0014. 백준_소수 (2581)\0014. 백준_소수 (2581).vcxproj", "{3962ED59-DDC4-4182-9019-1533FDFDCE88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{753DDACA-8537-4017-BAFB-65373E0A9A9D}.Release|x64.Build.0 = Release|x64
 		{753DDACA-8537-4017-BAFB-65373E0A9A9D}.Release|x86.ActiveCfg = Release|Win32
 		{753DDACA-8537-4017-BAFB-65373E0A9A9D}.Release|x86.Build.0 = Release|Win32
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Debug|x64.ActiveCfg = Debug|x64
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Debug|x64.Build.0 = Debug|x64
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Debug|x86.ActiveCfg = Debug|Win32
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Debug|x86.Build.0 = Debug|Win32
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Release|x64.ActiveCfg = Release|x64
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Release|x64.Build.0 = Release|x64
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Release|x86.ActiveCfg = Release|Win32
+		{3962ED59-DDC4-4182-9019-1533FDFDCE88}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
