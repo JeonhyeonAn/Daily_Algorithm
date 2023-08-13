@@ -37,6 +37,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0016. 백준_네 번째 점
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0017. 백준_수학은 체육과목입니다 (15894)", "0017. 백준_수학은 체육과목입니다 (15894)\0017. 백준_수학은 체육과목입니다 (15894).vcxproj", "{21FA0F34-C652-4779-9324-6D5EDDD77A62}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0018. 백준_대지", "0018. 백준_대지\0018. 백준_대지.vcxproj", "{9E30BF08-71B4-433C-A812-5CFECD02E58C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0019. 백준_삼각형 외우기 (10101)", "0019. 백준_삼각형 외우기 (10101)\0019. 백준_삼각형 외우기 (10101).vcxproj", "{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +185,22 @@ Global
 		{21FA0F34-C652-4779-9324-6D5EDDD77A62}.Release|x64.Build.0 = Release|x64
 		{21FA0F34-C652-4779-9324-6D5EDDD77A62}.Release|x86.ActiveCfg = Release|Win32
 		{21FA0F34-C652-4779-9324-6D5EDDD77A62}.Release|x86.Build.0 = Release|Win32
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Debug|x64.ActiveCfg = Debug|x64
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Debug|x64.Build.0 = Debug|x64
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Debug|x86.Build.0 = Debug|Win32
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Release|x64.ActiveCfg = Release|x64
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Release|x64.Build.0 = Release|x64
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Release|x86.ActiveCfg = Release|Win32
+		{9E30BF08-71B4-433C-A812-5CFECD02E58C}.Release|x86.Build.0 = Release|Win32
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Debug|x64.ActiveCfg = Debug|x64
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Debug|x64.Build.0 = Debug|x64
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Debug|x86.Build.0 = Debug|Win32
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Release|x64.ActiveCfg = Release|x64
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Release|x64.Build.0 = Release|x64
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Release|x86.ActiveCfg = Release|Win32
+		{A3FA4CD2-EB09-48E4-B6BE-E84F397AAFB2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
